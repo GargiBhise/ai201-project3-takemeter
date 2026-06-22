@@ -231,6 +231,26 @@ For example:
 
 This comment gives a possible reason, but it does not include specific evidence or developed reasoning.
 
+### Difficult Annotation Decisions
+
+**Case 1 — `analysis` vs `hot_take`**
+
+> De Jong actually plays a lot of progressive passes though. If someone actually thinks he's not a good player, you should probably disregard their footballing input.
+
+This could be `hot_take` because the conclusion is dismissive and unsupported, or `analysis` because progressive passing is cited as specific evidence. I labeled it `analysis` because the passing claim is a concrete, verifiable football observation that genuinely supports the conclusion.
+
+**Case 2 — `observation` vs `reaction`**
+
+> What's his passing like now? From my memory he was always pretty good at finding the right person but I haven't watched him in years. I have hope Mainoo would develop that side of his game a bit more.
+
+This could be `reaction` because it expresses personal hope, or observation because it mainly describes a remembered passing trait and compares it with another player's development. I labeled it `observation` because the descriptive comparison is the main purpose, while the emotional element is secondary.
+
+**Case 3 — `observation` vs `reaction`**
+
+> Easy to make fun of because of his mistakes but he's about the same age as Lamine. Pretty impressive.
+
+This could be `reaction` because it expresses admiration, or `observation` because the age comparison is the main point. I labeled it `observation` because the factual age comparison is what drives the comment, with admiration as a secondary response to that fact.
+
 ### Decision rule
 
 A comment will be labeled `analysis` only when it includes specific statistics, tactical mechanisms, concrete examples, historical comparisons, or a meaningful cause-and-effect explanation that genuinely supports its conclusion. A confident claim followed only by a vague or decorative explanation will be labeled `hot_take`.
