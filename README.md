@@ -351,10 +351,9 @@ I used Claude to review the confusion matrix and wrong predictions and identify 
 
 ---
 
-
 ## Demo Video
 
-[Watch the 3–5 minute demo](PASTE_VIDEO_LINK_HERE)
+[Watch the 3–5 minute demo](https://www.loom.com/share/e14acf4a74754ebc9eef8307bfe51845)
 
 The demo includes:
 
